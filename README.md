@@ -9,3 +9,9 @@ Fragment juga dapat dipakai berulang kali didalam activity
 # Lifecycle Fragment
 Fragment merupakan sebuah kelas yang mempunyai fungsi hampir sama dengan sebuah activity, dimana dalam sebuah fragment terdapat method method seperti onCreate(),  onStart(), onPause(), dan onStop(). lifeccycle dari fragment dan Activity mempunyai tahapan yang saling berhubungan, dimana  method method yang ada pada activity maupun Fragment akan saling terhubung
 
+# First Fragment
+![WhatsApp Image 2021-02-25 at 22 44 04 (4)](https://user-images.githubusercontent.com/54672937/109180905-f5206f80-77bd-11eb-8f89-856194aaa725.jpeg)
+
+# Second Fragment
+![WhatsApp Image 2021-02-25 at 22 44 04 (3)](https://user-images.githubusercontent.com/54672937/109180914-f6ea3300-77bd-11eb-8ee0-b935860552b2.jpeg)
+
